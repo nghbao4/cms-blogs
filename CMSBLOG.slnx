@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="src/CMSBlog.Api/CMSBlog.Api.csproj" />
+  <Project Path="src/CMSBlog.Core/CMSBlog.Core.csproj" />
+  <Project Path="src/CMSBlog.Data/CMSBlog.Data.csproj" />
+  <Project Path="src/CMSBlog.WebApp/CMSBlog.WebApp.csproj" />
+</Solution>
