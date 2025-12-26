@@ -132,23 +132,3 @@ CMS-BLOG
 
 ### Khác
 - Git
-
----
-
-## 👨‍🎓 Đối tượng học tập
-- Sinh viên sắp tốt nghiệp, đang làm MVC / Web API
-- Người đi làm muốn học **xây dựng hệ thống hoàn chỉnh**
-- Lập trình viên muốn nâng cao tư duy kiến trúc
-
----
-
-## 📚 Yêu cầu tối thiểu
-- C# căn bản
-- HTML, CSS, JavaScript căn bản
-- SQL Server căn bản
-- ASP.NET Core căn bản
-
----
-
-## 👤 Tác giả
-**BAONH4**
